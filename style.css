@@ -1,0 +1,82 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Box Description*/
+  .tradingcard {
+    width: 310px;
+    border: 1px solid black;
+    box-shadow: 6px 6px 1px 0px #6f5c5c;
+    border-radius: 8px;
+    background-color: rgb(206, 118, 18);
+    margin-left: 300px;
+    margin-right: 200px;
+  
+  
+  }
+  
+  .tradingcard h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    background-image: url('animalpicture.jpg');
+    background-size: cover;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    width: 283px;
+    padding-right: .5em;
+    padding-left: .3em;
+  
+  }
+  
+  .infospace {
+    width: 283px;
+    padding-right: .3em;
+    padding-left: .5em;
+  
+  }
+  
+  .heading {
+    width: 283px;
+    padding-right: .5em;
+    padding-left: .3em;
+  
+  }
+  
+  .animalimage {
+    width: 310px;
+    height: 250px;
+    padding-bottom: .8em;
+  
+  
+  
+  
+  }
+  
+  .funfact {
+    font-style: italic;
+    padding-right: .4em;
+    padding-left: .5em;
+    padding-bottom: .6em;
+    color: white;
+    border: 2px solid white;
+  
+  }
+  
+  .list-info {
+    list-style-type: none;
+    padding-right: .4em;
+    padding-left: .5em;
+    color: white;
+    border: 2px solid white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  
+  
+  
+  }
+  
+  span {
+    font-weight: bold;
+  }
